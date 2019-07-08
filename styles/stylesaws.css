@@ -1,0 +1,9 @@
+body{font-family: sans-serif, Verdana, Arial, Helvetica;}
+.footer {text-align: center;}
+.header {text-align: left;}
+h3 {text-align:left;margin-left:3%;font-weight:normal;}
+h2 {text-decoration: none;margin-left:2%;font-size: 200%;}
+a {text-decoration: none;font-weight:bold;}
+.boxleft, .boxcenter, .boxright {width: 28%;float: left;margin-left:2%;padding:1%;margin-top:20px;}
+a.nav:hover {
+color: red; text-decoration:none;}
